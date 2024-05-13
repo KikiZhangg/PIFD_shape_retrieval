@@ -1,4 +1,4 @@
-#  Phase-Inclusive Fourier Descriptor (PIFD) for Shape-based Image Retrieval 
+#  Using phase-including Fourier Descriptors to enhance shape-based image retrieval
 
 ## 💁‍♀️fun math alert💅
 
