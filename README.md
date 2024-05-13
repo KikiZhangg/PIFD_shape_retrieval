@@ -1,6 +1,6 @@
 #  Phase-Inclusive Fourier Descriptor (PIFD) for Shape-based Image Retrieval 
 
-# 💁‍♀️fun math alert💅
+## 💁‍♀️fun math alert💅
 
 This is a final project for the course: Mathematical Image Analysis. Lavinia and I implemented a Phase-Inclusive Fourier Descriptor(PIFD) approach for shape-based image retrieval.
 
